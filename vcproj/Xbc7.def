@@ -1,0 +1,13 @@
+LIBRARY Xbc7
+DESCRIPTION 'Xbc7'
+EXPORTS
+	gfpGetPluginInfo
+	gfpLoadPictureInit
+	gfpLoadPictureGetInfo
+	gfpLoadPictureGetLine
+	gfpLoadPictureGetColormap
+	gfpLoadPictureExit
+	gfpSavePictureIsSupported
+	gfpSavePictureInit
+	gfpSavePicturePutLine
+	gfpSavePictureExit
